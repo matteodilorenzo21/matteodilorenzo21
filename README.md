@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matteo and I'm a Web Full Stack Developer!</h2>
+<h2 align="left">Hello world! My name is Matteo and I'm a Web Full Stack Developer !</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/4a871948518963f416cc3620a7255aaaf15e9b2b585b004823e01b24a77922a6/68747470733a2f2f636f64656d7975692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30332f6865726f2d73656374696f6e2d616e696d6174696f6e2e676966"  />
 
 ###
 
@@ -32,9 +32,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
 ###
@@ -47,3 +49,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/matteodilorenzo21/matteodilorenzo21/output/snake.svg" alt="Snake animation" />
+
+###
